@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Potinho de Oração Infantil - Página Oficial",
+  "description": "Transforme 10 minutos do seu dia num momento inesquecível de fé, conversa e amor com as crianças. 60 orações para pequenos corações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
